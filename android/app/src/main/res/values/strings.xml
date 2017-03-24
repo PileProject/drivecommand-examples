@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">drivecommand-examples</string>
+
+    <string name="ok">OK</string>
+    <string name="ng">NG</string>
+
+    <string name="main.forward">F</string>
+    <string name="main.backward">B</string>
+    <string name="main.stop">S</string>
+    <string name="main.percent">Pct</string>
+    <string name="main.si_unit">SI</string>
+    <string name="main.connect">Connect</string>
+    <string name="main.connecting">Connecting ... </string>
+    <string name="main.device_connected">Device connected</string>
+    <string name="main.please_wait">Please wait for a while.</string>
+    <string name="main.disconnect">Disconnect</string>
+    <string name="main.device_disconnected">Device disconnected</string>
+    <string name="main.get_value">Value</string>
+    <string name="main.bluetooth_connection_error">Bluetooth connection error</string>
+    <string name="main.bluetooth_failed_to_connect">Failed to connect a robot</string>
+
     <string name="deviceList.scanning">Scanning ... </string>
     <string name="deviceList.select_device">Select a device</string>
     <string name="deviceList.none_found">Not Found</string>
