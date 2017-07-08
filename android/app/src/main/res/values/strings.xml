@@ -24,4 +24,7 @@
     <string name="deviceList.select_device">Select a device</string>
     <string name="deviceList.none_found">Not Found</string>
     <string name="deviceList.none_paired">No paired device</string>
+    <string name="deviceList.pared">Paired devices</string>
+    <string name="deviceList.other_devices">Other devices</string>
+    <string name="deviceList.search_other_devices">Search other devices</string>
 </resources>
